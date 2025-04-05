@@ -69,7 +69,7 @@ numpy
 After installing the dependencies, you can run the program by executing the following command:
 
 ```bash
-python main.py
+python Main.py
 ```
 
 The program will display a graphical user interface where you can:
