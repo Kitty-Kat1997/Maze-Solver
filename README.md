@@ -34,7 +34,7 @@ To run the **Maze Pathfinding Algorithm Visualizer** on your local machine, foll
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/maze-pathfinding-visualizer.git
+[git clone https://github.com/Kitty-Kat1997/Maze-Solver.git]
 ```
 
 ### **2. Install Required Dependencies**
