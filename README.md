@@ -1,7 +1,7 @@
 
- Maze Pathfinding Algorithm Visualizer
+ ## **Maze Pathfinding Algorithm Visualizer**
 
-Overview
+## **Overview**
 
 The **Maze Pathfinding Algorithm Visualizer** is a Python-based tool designed to visually demonstrate and compare various pathfinding algorithms (DFS, BFS, A*, Bi-Directional BFS). This tool allows users to experiment with different algorithms and view their search processes in real-time, providing a side-by-side comparison of their performance. The visualizer helps users understand the mechanics of each algorithm, including their efficiency, search patterns, and trade-offs in terms of time and space complexity.
 
@@ -133,8 +133,4 @@ If you encounter issues, consider the following steps:
 - **Dependencies**: Ensure that all required dependencies are installed using `pip install -r requirements.txt`.
 - **Visualization Issues**: If the maze is not displaying correctly, try updating your **matplotlib** and **numpy** libraries.
 
-For additional support, feel free to open an issue on the GitHub repository.
 
----
-
-This **README** provides all the necessary details for users to install, use, and contribute to the **Maze Pathfinding Algorithm Visualizer** project. Let me know if you need any further adjustments!
